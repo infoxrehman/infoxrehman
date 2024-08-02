@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Native App Development**
 
-- 💬 Ask me about **Android, Game Development**
+- 💬 Ask me about **Android, Game Development, Startup**
 
 - 📫 How to reach me **arktechsolution7@gmail.com**
 
