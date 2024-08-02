@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D3DAQEFpgZ1AJptaQ/image-scale_191_1128/0/1715550383210/lixtanetwork_cover?e=2147483647&v=beta&t=ePqWLTAfEjwY5NRdcGc05AZyT_anHY9dPNED66r_2kk)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D3DAQEFpgZ1AJptaQ/image-scale_191_1128/0/1715550383210/lixtanetwork_cover?e=2147483647&v=beta&t=ePqWLTAfEjwY5NRdcGc05AZyT_anHY9dPNED66r_2kk)](https://lixtanetwork.com)
 <h1 align="center">Hi 👋, I'm Khan Abdul Rehman</h1>
 <h3 align="center">Founder and CEO of Lixta Network</h3> 
 
