@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning Native App Development<br><br>💬 Ask me about Android, Game Development, Startup<br><br>📫 How to reach me arktechsolution7@gmail.com
 
+---
+[![](https://visitcount.itsvg.in/api?id=infoxrehman&icon=8&color=7)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/infoxrehman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khan-abdul-rehman/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/infoxrehman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@infoxrehman) 
@@ -14,8 +16,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=infoxrehman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=infoxrehman&icon=8&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
