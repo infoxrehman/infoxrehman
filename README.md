@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Native App Development<br><br>💬 Ask me about Android, Game Development, Startup<br><br>📫 How to reach me arktechsolution7@gmail.com
+🌱 I’m currently building Tech Startups<br><br>💬 Ask me about Android, Game Development, Tech and Startups<br><br>📫 How to reach me arktechsolution7@gmail.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=infoxrehman&icon=8&color=7)](https://visitcount.itsvg.in)
